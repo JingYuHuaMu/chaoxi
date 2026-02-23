@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c3547d-e343-4426-8448-63eaf065535a" name="更改" comment="lnitial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/潮汐.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/潮汐.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market_simulator_pro.py" beforeDir="false" afterPath="$PROJECT_DIR$/market_simulator_pro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements" beforeDir="false" afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +54,11 @@
     "Python.test_tradesim.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/ASUS/AppData/Local/Programs/Python/Python313/python313.dll",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +67,7 @@
       <recent name="E:\量化\潮汐\Logs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AI">
+  <component name="RunManager">
     <configuration name="AI" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="潮汐" />
       <option name="ENV_FILES" value="" />
@@ -182,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771845747771</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lnitial commit">
+      <option name="closed" value="true" />
+      <created>1771847158738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771847158738</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
